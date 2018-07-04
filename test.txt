@@ -1,4 +1,2 @@
 Test rm
-new branch+
-
-测试2
+new branch+测试1
